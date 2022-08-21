@@ -13,21 +13,10 @@ public class mainSmartRoomSimulator{
     public static void SimulationInit(){
         long start1 = System.currentTimeMillis();
         System.out.println("Spajam se na bazu...");
-        //MongoClient mongoClient = Connect.mongoConnect();
-
-        MongoClient mongoClient = Connect.getClient().mongoClient;
-        Thread t1 = new Simulator(Filenames.AdriaCollectionName , 50000L);
-        Thread t2 = new Simulator(Filenames.DHMZObradenoCollectionName , 50000L);
-        //Thread t3 = new Simulator(Filenames.DHMZBaseCollectionName ,mongoClient);
-
+        Thread t1 = new Simulator(50000L);
         t1.start();
-        t2.start();
-        //t3.start();
-
         //archive(mongoClient);
         //createIndexes(mongoClient);
-
-
         long end1 = System.currentTimeMillis();
         System.out.println("Done");
         System.out.println("Executed in: " + (end1 - start1) + "ms");

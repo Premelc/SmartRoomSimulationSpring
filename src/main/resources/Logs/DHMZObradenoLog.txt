@@ -1,0 +1,304 @@
+----------------------------------------------
+Connection started: 2022-08-20 22:30:50.959
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:30:50.959
+        Elapsed time: 999ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@6c060224
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1030ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@1975eff0
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1060ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@700836a2
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1090ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@61c4615b
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1123ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@3d8f4865
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1162ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@bb33a4b
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1191ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:30:50.959
+[Ljava.lang.StackTraceElement;@3abfb0b9
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301285a7e4cee126a15226c') }', details={}}]. 
+        Elapsed time: 1223ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:30:50.959
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:32:36.03
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:32:36.03
+        Elapsed time: 1008ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@44c12f26
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1040ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@26188ccc
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1070ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@5d6cfc80
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1101ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@16ce3129
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1129ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@5b3b94c9
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1160ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@39270d8e
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1190ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:32:36.03
+[Ljava.lang.StackTraceElement;@3957ed6
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630128c47e4cee126a15232f') }', details={}}]. 
+        Elapsed time: 1220ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:32:36.03
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:34:20.088
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:34:20.088
+        Elapsed time: 991ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@64b540f4
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1021ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@63af0d77
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1050ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@62e527f1
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1080ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@4a2e96b5
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1111ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@452cde4
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1140ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@1f0dacac
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1170ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:34:20.088
+[Ljava.lang.StackTraceElement;@541cda13
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('6301292c7e4cee126a1523f2') }', details={}}]. 
+        Elapsed time: 1201ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:34:20.088
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:36:04.162
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:36:04.162
+        Elapsed time: 997ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@6ab9651b
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1027ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@7896a845
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1056ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@a8c1337
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1086ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@38728c37
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1116ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@19c2b79f
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1146ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@545bf062
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1176ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:36:04.162
+[Ljava.lang.StackTraceElement;@3ea45475
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129947e4cee126a1524b5') }', details={}}]. 
+        Elapsed time: 1206ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:36:04.162
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:37:48.278
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:37:48.278
+        Elapsed time: 992ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@129b74a2
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1020ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@1e694721
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1053ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@15ba6c6e
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1080ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@9a18550
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1110ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@4056cea2
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1140ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@14d2d9c6
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1170ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:37:48.278
+[Ljava.lang.StackTraceElement;@524d0e2e
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('630129fc7e4cee126a152578') }', details={}}]. 
+        Elapsed time: 1200ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:37:48.278
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:39:32.351
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:39:32.351
+        Elapsed time: 995ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@57439a32
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1024ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@21966da6
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1054ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@23888cbb
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1084ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@190eda9a
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1115ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@52d74183
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1144ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@403eed22
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1174ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:39:32.351
+[Ljava.lang.StackTraceElement;@27345cca
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012a647e4cee126a15263b') }', details={}}]. 
+        Elapsed time: 1204ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:39:32.351
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:41:16.436
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:41:16.436
+        Elapsed time: 992ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@488198bc
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1022ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@20b20376
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1051ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@1752adbf
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1081ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@12856193
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1111ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@56054f07
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1141ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@661c5f02
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1171ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:41:16.436
+[Ljava.lang.StackTraceElement;@6421292b
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012acc7e4cee126a1526fe') }', details={}}]. 
+        Elapsed time: 1201ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:41:16.436
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:43:02.3
+----------------------------------------------
+        Accessing collection DHMZObradeno
+        8 Entries expected 
+        1 DHMZObradeno readings entered at: 2022-08-20 22:43:02.3
+        Elapsed time: 989ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@5d1145c5
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1021ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@21104417
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1050ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@25f0eb78
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1080ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@4875f69c
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1110ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@1f9dbd3a
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1141ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@3c0e7222
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1170ms
+        FAILED TO LOAD DOCUMENTS:  2022-08-20 22:43:02.3
+[Ljava.lang.StackTraceElement;@1e07e5f0
+Bulk write operation error on server ac-2klhrkx-shard-00-02.nye6wof.mongodb.net:27017. Write errors: [BulkWriteError{index=0, code=11000, message='E11000 duplicate key error collection: 2022.DHMZObradeno index: _id_ dup key: { _id: ObjectId('63012b367e4cee126a1527c0') }', details={}}]. 
+        Elapsed time: 1200ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:43:02.3
+----------------------------------------------

@@ -5,7 +5,7 @@ import java.io.*;
 public class Logs {
 
     public static void logMessage(String logPath , String message){
-        try {
+        /*try {
             FileWriter fw = new FileWriter(logPath , true);
             BufferedWriter out = new BufferedWriter(fw);
             out.write(message);
@@ -14,7 +14,7 @@ public class Logs {
             out.close();
         } catch (IOException ioe) {
             ioe.printStackTrace();
-        }
+        }*/
     }
 
 }

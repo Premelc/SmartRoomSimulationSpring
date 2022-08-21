@@ -1,0 +1,2879 @@
+----------------------------------------------
+Connection started: 2022-08-20 22:29:06.505
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 1702ms
+        2 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 1766ms
+        3 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 1855ms
+        4 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 1943ms
+        5 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2014ms
+        6 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2103ms
+        7 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2172ms
+        8 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2256ms
+        9 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2326ms
+        10 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2503ms
+        11 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2581ms
+        12 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2653ms
+        13 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2724ms
+        14 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2805ms
+        15 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 2916ms
+        16 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 3025ms
+        17 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 3404ms
+        18 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 3463ms
+        19 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 3523ms
+        20 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 3574ms
+        21 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 3623ms
+        22 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 4396ms
+        23 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 4475ms
+        24 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 4555ms
+        25 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 4654ms
+        26 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 4715ms
+        27 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 5395ms
+        28 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 5496ms
+        29 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 5557ms
+        30 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 5647ms
+        31 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 6397ms
+        32 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 6456ms
+        33 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 6516ms
+        34 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 7398ms
+        35 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 7458ms
+        36 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 7539ms
+        37 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 8399ms
+        38 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 8449ms
+        39 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 8509ms
+        40 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 9399ms
+        41 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 9460ms
+        42 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 9521ms
+        43 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 10400ms
+        44 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 10452ms
+        45 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 10511ms
+        46 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 11413ms
+        47 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 11472ms
+        48 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 11564ms
+        49 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 12403ms
+        50 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 12494ms
+        51 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 13413ms
+        52 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 13474ms
+        53 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 14406ms
+        54 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 14475ms
+        55 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 15397ms
+        56 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 15456ms
+        57 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 16406ms
+        58 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 16467ms
+        59 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 17467ms
+        60 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 17538ms
+        61 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 18399ms
+        62 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 18459ms
+        63 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 19401ms
+        64 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 19460ms
+        65 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 20403ms
+        66 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 20461ms
+        67 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 21422ms
+        68 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 21534ms
+        69 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 22406ms
+        70 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 22473ms
+        71 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 23406ms
+        72 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 23464ms
+        73 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 24405ms
+        74 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 24466ms
+        75 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 25410ms
+        76 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 25498ms
+        77 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 26407ms
+        78 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 26469ms
+        79 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 27409ms
+        80 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 27478ms
+        81 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 28411ms
+        82 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 28473ms
+        83 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 29410ms
+        84 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 29501ms
+        85 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 30412ms
+        86 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 30482ms
+        87 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 31463ms
+        88 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 31522ms
+        89 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 32415ms
+        90 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 32483ms
+        91 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 33464ms
+        92 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 33524ms
+        93 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 34416ms
+        94 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 34476ms
+        95 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 35406ms
+        96 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 35467ms
+        97 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 36408ms
+        98 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 36470ms
+        99 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 37409ms
+        100 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 38419ms
+        101 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 39422ms
+        102 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 40415ms
+        103 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 41415ms
+        104 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 42497ms
+        105 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 43418ms
+        106 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 44418ms
+        107 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 45419ms
+        108 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 46422ms
+        109 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 47422ms
+        110 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 48491ms
+        111 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 49421ms
+        112 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 50472ms
+        113 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 51464ms
+        114 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 52426ms
+        115 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 53439ms
+        116 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 54416ms
+        117 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 55419ms
+        118 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 56429ms
+        119 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 57421ms
+        120 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 58431ms
+        121 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 59424ms
+        122 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 60433ms
+        123 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 61424ms
+        124 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 62425ms
+        125 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 63426ms
+        126 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 64469ms
+        127 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 65468ms
+        128 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 66430ms
+        129 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 67432ms
+        130 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 68431ms
+        131 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 69434ms
+        132 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 70434ms
+        133 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 71485ms
+        134 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 72485ms
+        135 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 73478ms
+        136 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 74478ms
+        137 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 75479ms
+        138 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 76439ms
+        139 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 77442ms
+        140 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 78432ms
+        141 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 79443ms
+        142 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 80434ms
+        143 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 81475ms
+        144 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 82477ms
+        145 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 83439ms
+        146 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 84478ms
+        147 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 85440ms
+        148 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 86442ms
+        149 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 87431ms
+        150 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 88493ms
+        151 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 89435ms
+        152 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 90434ms
+        153 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 91447ms
+        154 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 92437ms
+        155 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 93438ms
+        156 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 94440ms
+        157 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 95510ms
+        158 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 96441ms
+        159 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 97451ms
+        160 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 98453ms
+        161 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 99454ms
+        162 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 100455ms
+        163 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 101458ms
+        164 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 102497ms
+        165 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 103460ms
+        166 2022 readings entered at: 2022-08-20 22:29:06.505
+        Elapsed time: 104449ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:29:06.505
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:30:52.507
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 41ms
+        2 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 82ms
+        3 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 122ms
+        4 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 162ms
+        5 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 202ms
+        6 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 242ms
+        7 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 283ms
+        8 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 333ms
+        9 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 372ms
+        10 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 453ms
+        11 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 492ms
+        12 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 533ms
+        13 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 573ms
+        14 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 633ms
+        15 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 712ms
+        16 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 773ms
+        17 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 843ms
+        18 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 1455ms
+        19 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 1513ms
+        20 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 1564ms
+        21 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 1623ms
+        22 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 1684ms
+        23 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 2447ms
+        24 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 2505ms
+        25 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 2565ms
+        26 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 2615ms
+        27 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 3457ms
+        28 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 3545ms
+        29 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 3596ms
+        30 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 3647ms
+        31 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 4448ms
+        32 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 4496ms
+        33 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 4547ms
+        34 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 5449ms
+        35 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 5517ms
+        36 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 5598ms
+        37 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 6449ms
+        38 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 6498ms
+        39 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 6548ms
+        40 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 7452ms
+        41 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 7500ms
+        42 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 7551ms
+        43 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 8452ms
+        44 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 8510ms
+        45 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 8561ms
+        46 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 9454ms
+        47 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 9502ms
+        48 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 9582ms
+        49 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 10454ms
+        50 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 10543ms
+        51 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 11455ms
+        52 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 11504ms
+        53 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 12455ms
+        54 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 12505ms
+        55 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 13457ms
+        56 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 13506ms
+        57 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 14457ms
+        58 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 14507ms
+        59 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 15508ms
+        60 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 15558ms
+        61 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 16459ms
+        62 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 16509ms
+        63 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 17461ms
+        64 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 17510ms
+        65 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 18461ms
+        66 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 18511ms
+        67 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 19463ms
+        68 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 19543ms
+        69 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 20463ms
+        70 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 20513ms
+        71 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 21466ms
+        72 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 21524ms
+        73 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 22465ms
+        74 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 22515ms
+        75 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 23458ms
+        76 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 23506ms
+        77 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 24460ms
+        78 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 24517ms
+        79 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 25461ms
+        80 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 25508ms
+        81 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 26462ms
+        82 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 26560ms
+        83 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 27464ms
+        84 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 27562ms
+        85 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 28463ms
+        86 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 28542ms
+        87 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 29513ms
+        88 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 29563ms
+        89 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 30464ms
+        90 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 30514ms
+        91 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 31515ms
+        92 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 31564ms
+        93 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 32466ms
+        94 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 32515ms
+        95 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 33469ms
+        96 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 33557ms
+        97 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 34469ms
+        98 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 35473ms
+        99 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 36473ms
+        100 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 37473ms
+        101 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 38472ms
+        102 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 39474ms
+        103 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 40478ms
+        104 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 41537ms
+        105 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 42477ms
+        106 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 43479ms
+        107 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 44471ms
+        108 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 45469ms
+        109 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 46470ms
+        110 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 47531ms
+        111 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 48472ms
+        112 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 49585ms
+        113 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 50526ms
+        114 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 51476ms
+        115 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 52477ms
+        116 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 53486ms
+        117 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 54481ms
+        118 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 55482ms
+        119 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 56482ms
+        120 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 57482ms
+        121 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 58485ms
+        122 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 59485ms
+        123 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 60518ms
+        124 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 61478ms
+        125 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 62480ms
+        126 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 63548ms
+        127 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 64530ms
+        128 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 65482ms
+        129 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 66483ms
+        130 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 67483ms
+        131 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 68486ms
+        132 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 69486ms
+        133 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 70526ms
+        134 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 71547ms
+        135 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 72528ms
+        136 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 73529ms
+        137 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 74531ms
+        138 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 75492ms
+        139 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 76493ms
+        140 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 77490ms
+        141 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 78495ms
+        142 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 79487ms
+        143 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 80536ms
+        144 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 81537ms
+        145 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 82490ms
+        146 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 83539ms
+        147 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 84492ms
+        148 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 85493ms
+        149 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 86493ms
+        150 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 87543ms
+        151 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 88497ms
+        152 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 89506ms
+        153 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 90507ms
+        154 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 91508ms
+        155 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 92511ms
+        156 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 93510ms
+        157 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 94552ms
+        158 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 95513ms
+        159 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 96523ms
+        160 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 97524ms
+        161 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 98516ms
+        162 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 99518ms
+        163 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 100518ms
+        164 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 101569ms
+        165 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 102521ms
+        166 2022 readings entered at: 2022-08-20 22:30:52.507
+        Elapsed time: 103521ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:30:52.507
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:32:37.572
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 36ms
+        2 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 76ms
+        3 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 116ms
+        4 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 156ms
+        5 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 196ms
+        6 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 237ms
+        7 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 276ms
+        8 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 327ms
+        9 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 386ms
+        10 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 456ms
+        11 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 506ms
+        12 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 546ms
+        13 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 587ms
+        14 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 629ms
+        15 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 717ms
+        16 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 757ms
+        17 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 797ms
+        18 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 1459ms
+        19 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 1497ms
+        20 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 1538ms
+        21 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 1578ms
+        22 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 1618ms
+        23 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 2459ms
+        24 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 2499ms
+        25 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 2539ms
+        26 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 2579ms
+        27 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 3460ms
+        28 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 3540ms
+        29 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 3581ms
+        30 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 3630ms
+        31 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 4461ms
+        32 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 4501ms
+        33 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 4541ms
+        34 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 4581ms
+        35 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 5462ms
+        36 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 5532ms
+        37 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 5572ms
+        38 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 6464ms
+        39 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 6503ms
+        40 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 6543ms
+        41 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 7455ms
+        42 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 7504ms
+        43 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 7544ms
+        44 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 8456ms
+        45 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 8495ms
+        46 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 8535ms
+        47 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 9458ms
+        48 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 9556ms
+        49 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 10457ms
+        50 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 10527ms
+        51 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 11459ms
+        52 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 11498ms
+        53 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 12459ms
+        54 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 12500ms
+        55 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 13461ms
+        56 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 13501ms
+        57 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 14461ms
+        58 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 14502ms
+        59 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 15512ms
+        60 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 15552ms
+        61 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 16463ms
+        62 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 16503ms
+        63 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 17464ms
+        64 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 17504ms
+        65 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 18466ms
+        66 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 18505ms
+        67 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 19466ms
+        68 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 19536ms
+        69 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 20469ms
+        70 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 20518ms
+        71 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 21468ms
+        72 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 21509ms
+        73 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 22470ms
+        74 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 22510ms
+        75 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 23462ms
+        76 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 23511ms
+        77 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 24463ms
+        78 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 24503ms
+        79 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 25464ms
+        80 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 25523ms
+        81 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 26466ms
+        82 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 26514ms
+        83 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 27468ms
+        84 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 27545ms
+        85 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 28466ms
+        86 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 28506ms
+        87 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 29509ms
+        88 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 29547ms
+        89 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 30468ms
+        90 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 30518ms
+        91 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 31519ms
+        92 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 31559ms
+        93 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 32471ms
+        94 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 32521ms
+        95 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 33471ms
+        96 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 33521ms
+        97 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 34477ms
+        98 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 34523ms
+        99 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 35473ms
+        100 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 36475ms
+        101 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 37475ms
+        102 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 38476ms
+        103 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 39477ms
+        104 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 40518ms
+        105 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 41471ms
+        106 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 42476ms
+        107 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 43472ms
+        108 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 44473ms
+        109 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 45474ms
+        110 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 46515ms
+        111 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 47477ms
+        112 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 48527ms
+        113 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 49518ms
+        114 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 50479ms
+        115 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 51480ms
+        116 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 52491ms
+        117 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 53485ms
+        118 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 54484ms
+        119 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 55486ms
+        120 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 56485ms
+        121 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 57488ms
+        122 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 58488ms
+        123 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 59488ms
+        124 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 60480ms
+        125 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 61483ms
+        126 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 62532ms
+        127 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 63532ms
+        128 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 64484ms
+        129 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 65485ms
+        130 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 66488ms
+        131 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 67488ms
+        132 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 68489ms
+        133 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 69529ms
+        134 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 70530ms
+        135 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 71531ms
+        136 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 72533ms
+        137 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 73533ms
+        138 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 74495ms
+        139 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 75496ms
+        140 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 76496ms
+        141 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 77498ms
+        142 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 78500ms
+        143 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 79541ms
+        144 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 80541ms
+        145 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 81492ms
+        146 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 82545ms
+        147 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 83495ms
+        148 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 84496ms
+        149 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 85498ms
+        150 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 86557ms
+        151 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 87500ms
+        152 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 88500ms
+        153 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 89500ms
+        154 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 90503ms
+        155 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 91504ms
+        156 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 92505ms
+        157 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 93544ms
+        158 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 94505ms
+        159 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 95506ms
+        160 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 96507ms
+        161 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 97508ms
+        162 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 98509ms
+        163 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 99510ms
+        164 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 100542ms
+        165 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 101514ms
+        166 2022 readings entered at: 2022-08-20 22:32:37.572
+        Elapsed time: 102513ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:32:37.572
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:34:21.614
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 54ms
+        2 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 105ms
+        3 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 154ms
+        4 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 194ms
+        5 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 234ms
+        6 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 285ms
+        7 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 324ms
+        8 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 364ms
+        9 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 415ms
+        10 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 495ms
+        11 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 545ms
+        12 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 605ms
+        13 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 646ms
+        14 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 695ms
+        15 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 775ms
+        16 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 825ms
+        17 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 865ms
+        18 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 1496ms
+        19 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 1546ms
+        20 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 1596ms
+        21 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 1636ms
+        22 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 1686ms
+        23 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 2497ms
+        24 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 2547ms
+        25 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 2607ms
+        26 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 2657ms
+        27 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 3498ms
+        28 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 3578ms
+        29 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 3628ms
+        30 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 3688ms
+        31 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 4500ms
+        32 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 4629ms
+        33 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 4669ms
+        34 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 5500ms
+        35 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 5551ms
+        36 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 5632ms
+        37 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 6503ms
+        38 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 6561ms
+        39 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 6611ms
+        40 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 7504ms
+        41 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 7612ms
+        42 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 7662ms
+        43 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 8504ms
+        44 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 8633ms
+        45 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 8684ms
+        46 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 9495ms
+        47 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 9555ms
+        48 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 9644ms
+        49 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 10497ms
+        50 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 10596ms
+        51 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 11498ms
+        52 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 11556ms
+        53 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 12499ms
+        54 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 12567ms
+        55 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 13499ms
+        56 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 13559ms
+        57 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 14500ms
+        58 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 14560ms
+        59 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 15540ms
+        60 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 15590ms
+        61 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 16502ms
+        62 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 16552ms
+        63 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 17504ms
+        64 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 17553ms
+        65 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 18505ms
+        66 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 18564ms
+        67 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 19505ms
+        68 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 19597ms
+        69 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 20507ms
+        70 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 20566ms
+        71 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 21508ms
+        72 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 21557ms
+        73 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 22508ms
+        74 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 22558ms
+        75 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 23510ms
+        76 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 23569ms
+        77 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 24510ms
+        78 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 24561ms
+        79 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 25504ms
+        80 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 25551ms
+        81 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 26505ms
+        82 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 26583ms
+        83 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 27504ms
+        84 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 27584ms
+        85 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 28507ms
+        86 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 28554ms
+        87 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 29556ms
+        88 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 29616ms
+        89 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 30508ms
+        90 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 30558ms
+        91 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 31547ms
+        92 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 31597ms
+        93 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 32509ms
+        94 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 32568ms
+        95 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 33510ms
+        96 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 33560ms
+        97 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 34512ms
+        98 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 34561ms
+        99 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 35513ms
+        100 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 36514ms
+        101 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 37515ms
+        102 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 38516ms
+        103 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 39517ms
+        104 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 40567ms
+        105 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 41518ms
+        106 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 42519ms
+        107 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 43521ms
+        108 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 44521ms
+        109 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 45522ms
+        110 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 46563ms
+        111 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 47516ms
+        112 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 48565ms
+        113 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 49566ms
+        114 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 50520ms
+        115 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 51520ms
+        116 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 52521ms
+        117 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 53530ms
+        118 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 54523ms
+        119 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 55523ms
+        120 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 56523ms
+        121 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 57525ms
+        122 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 58526ms
+        123 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 59620ms
+        124 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 60548ms
+        125 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 61532ms
+        126 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 62590ms
+        127 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 63561ms
+        128 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 64524ms
+        129 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 65534ms
+        130 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 66535ms
+        131 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 67528ms
+        132 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 68528ms
+        133 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 69568ms
+        134 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 70588ms
+        135 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 71570ms
+        136 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 72570ms
+        137 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 73571ms
+        138 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 74533ms
+        139 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 75533ms
+        140 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 76545ms
+        141 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 77536ms
+        142 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 78537ms
+        143 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 79578ms
+        144 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 80579ms
+        145 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 81540ms
+        146 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 82591ms
+        147 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 83542ms
+        148 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 84545ms
+        149 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 85545ms
+        150 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 86585ms
+        151 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 87537ms
+        152 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 88546ms
+        153 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 89541ms
+        154 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 90541ms
+        155 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 91540ms
+        156 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 92543ms
+        157 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 93593ms
+        158 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 94543ms
+        159 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 95545ms
+        160 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 96546ms
+        161 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 97551ms
+        162 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 98550ms
+        163 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 99550ms
+        164 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 100600ms
+        165 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 101553ms
+        166 2022 readings entered at: 2022-08-20 22:34:21.614
+        Elapsed time: 102544ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:34:21.614
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:36:05.688
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 51ms
+        2 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 101ms
+        3 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 151ms
+        4 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 201ms
+        5 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 271ms
+        6 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 311ms
+        7 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 361ms
+        8 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 411ms
+        9 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 471ms
+        10 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 552ms
+        11 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 602ms
+        12 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 652ms
+        13 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 702ms
+        14 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 752ms
+        15 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 832ms
+        16 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 883ms
+        17 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 1514ms
+        18 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 1583ms
+        19 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 1622ms
+        20 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 1673ms
+        21 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 1724ms
+        22 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 2513ms
+        23 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 2564ms
+        24 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 2614ms
+        25 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 2663ms
+        26 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 2715ms
+        27 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 3515ms
+        28 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 3595ms
+        29 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 3645ms
+        30 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 3696ms
+        31 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 4516ms
+        32 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 4566ms
+        33 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 4626ms
+        34 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 5516ms
+        35 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 5567ms
+        36 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 5647ms
+        37 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 6527ms
+        38 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 6577ms
+        39 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 6627ms
+        40 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 7518ms
+        41 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 7568ms
+        42 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 7628ms
+        43 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 8520ms
+        44 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 8559ms
+        45 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 8612ms
+        46 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 9521ms
+        47 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 9571ms
+        48 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 9651ms
+        49 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 10523ms
+        50 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 10601ms
+        51 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 11524ms
+        52 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 11573ms
+        53 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 12517ms
+        54 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 12564ms
+        55 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 13525ms
+        56 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 13575ms
+        57 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 14517ms
+        58 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 14586ms
+        59 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 15567ms
+        60 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 15628ms
+        61 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 16520ms
+        62 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 16588ms
+        63 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 17520ms
+        64 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 17579ms
+        65 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 18532ms
+        66 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 18580ms
+        67 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 19531ms
+        68 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 19621ms
+        69 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 20524ms
+        70 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 20593ms
+        71 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 21535ms
+        72 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 21584ms
+        73 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 22525ms
+        74 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 22575ms
+        75 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 23526ms
+        76 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 23585ms
+        77 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 24537ms
+        78 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 24596ms
+        79 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 25529ms
+        80 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 25618ms
+        81 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 26529ms
+        82 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 26580ms
+        83 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 27529ms
+        84 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 27619ms
+        85 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 28532ms
+        86 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 28600ms
+        87 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 29562ms
+        88 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 29611ms
+        89 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 30533ms
+        90 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 30593ms
+        91 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 31574ms
+        92 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 31635ms
+        93 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 32536ms
+        94 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 32604ms
+        95 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 33527ms
+        96 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 33576ms
+        97 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 34529ms
+        98 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 34577ms
+        99 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 35538ms
+        100 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 36541ms
+        101 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 37531ms
+        102 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 38533ms
+        103 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 39532ms
+        104 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 40574ms
+        105 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 41534ms
+        106 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 42545ms
+        107 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 43538ms
+        108 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 44539ms
+        109 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 45548ms
+        110 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 46599ms
+        111 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 47552ms
+        112 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 48612ms
+        113 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 49592ms
+        114 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 50546ms
+        115 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 51555ms
+        116 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 52547ms
+        117 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 53547ms
+        118 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 54548ms
+        119 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 55550ms
+        120 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 56552ms
+        121 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 57551ms
+        122 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 58552ms
+        123 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 59553ms
+        124 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 60556ms
+        125 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 61555ms
+        126 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 62607ms
+        127 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 63597ms
+        128 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 64558ms
+        129 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 65559ms
+        130 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 66561ms
+        131 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 67561ms
+        132 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 68593ms
+        133 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 69604ms
+        134 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 70605ms
+        135 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 71606ms
+        136 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 72617ms
+        137 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 73617ms
+        138 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 74571ms
+        139 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 75572ms
+        140 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 76572ms
+        141 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 77574ms
+        142 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 78575ms
+        143 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 79614ms
+        144 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 80615ms
+        145 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 81577ms
+        146 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 82618ms
+        147 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 83570ms
+        148 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 84581ms
+        149 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 85582ms
+        150 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 86622ms
+        151 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 87576ms
+        152 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 88576ms
+        153 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 89577ms
+        154 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 90586ms
+        155 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 91577ms
+        156 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 92577ms
+        157 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 93629ms
+        158 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 94582ms
+        159 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 95583ms
+        160 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 96583ms
+        161 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 97585ms
+        162 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 98585ms
+        163 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 99585ms
+        164 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 100626ms
+        165 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 101587ms
+        166 2022 readings entered at: 2022-08-20 22:36:05.688
+        Elapsed time: 102589ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:36:05.688
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:37:49.796
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 53ms
+        2 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 101ms
+        3 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 141ms
+        4 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 181ms
+        5 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 231ms
+        6 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 271ms
+        7 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 322ms
+        8 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 371ms
+        9 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 421ms
+        10 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 501ms
+        11 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 553ms
+        12 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 601ms
+        13 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 641ms
+        14 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 691ms
+        15 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 781ms
+        16 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 831ms
+        17 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 881ms
+        18 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 1502ms
+        19 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 1552ms
+        20 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 1602ms
+        21 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 1642ms
+        22 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 1683ms
+        23 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 2503ms
+        24 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 2553ms
+        25 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 2604ms
+        26 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 2653ms
+        27 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 3504ms
+        28 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 3584ms
+        29 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 3634ms
+        30 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 3684ms
+        31 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 4506ms
+        32 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 4576ms
+        33 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 4636ms
+        34 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 5507ms
+        35 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 5557ms
+        36 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 5637ms
+        37 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 6509ms
+        38 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 6577ms
+        39 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 6627ms
+        40 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 7511ms
+        41 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 7579ms
+        42 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 7631ms
+        43 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 8509ms
+        44 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 8561ms
+        45 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 8610ms
+        46 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 9502ms
+        47 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 9551ms
+        48 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 9631ms
+        49 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 10503ms
+        50 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 10602ms
+        51 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 11505ms
+        52 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 11553ms
+        53 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 12505ms
+        54 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 12565ms
+        55 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 13508ms
+        56 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 13566ms
+        57 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 14507ms
+        58 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 14567ms
+        59 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 15567ms
+        60 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 15628ms
+        61 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 16509ms
+        62 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 16570ms
+        63 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 17509ms
+        64 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 17580ms
+        65 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 18511ms
+        66 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 18571ms
+        67 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 19511ms
+        68 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 19592ms
+        69 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 20516ms
+        70 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 20573ms
+        71 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 21516ms
+        72 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 21603ms
+        73 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 22515ms
+        74 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 22565ms
+        75 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 23516ms
+        76 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 23566ms
+        77 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 24506ms
+        78 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 24567ms
+        79 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 25511ms
+        80 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 25567ms
+        81 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 26521ms
+        82 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 26579ms
+        83 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 27512ms
+        84 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 27600ms
+        85 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 28512ms
+        86 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 28571ms
+        87 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 29562ms
+        88 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 29612ms
+        89 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 30513ms
+        90 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 30573ms
+        91 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 31554ms
+        92 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 31615ms
+        93 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 32515ms
+        94 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 32566ms
+        95 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 33517ms
+        96 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 33576ms
+        97 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 34518ms
+        98 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 34588ms
+        99 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 35518ms
+        100 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 36519ms
+        101 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 37520ms
+        102 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 38521ms
+        103 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 39523ms
+        104 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 40563ms
+        105 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 41524ms
+        106 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 42515ms
+        107 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 43527ms
+        108 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 44528ms
+        109 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 45528ms
+        110 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 46560ms
+        111 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 47531ms
+        112 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 48572ms
+        113 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 49563ms
+        114 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 50524ms
+        115 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 51525ms
+        116 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 52526ms
+        117 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 53527ms
+        118 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 54528ms
+        119 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 55530ms
+        120 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 56531ms
+        121 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 57531ms
+        122 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 58533ms
+        123 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 59534ms
+        124 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 60534ms
+        125 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 61535ms
+        126 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 62577ms
+        127 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 63578ms
+        128 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 64539ms
+        129 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 65530ms
+        130 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 66532ms
+        131 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 67532ms
+        132 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 68534ms
+        133 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 69584ms
+        134 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 70586ms
+        135 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 71577ms
+        136 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 72588ms
+        137 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 73578ms
+        138 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 74541ms
+        139 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 75542ms
+        140 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 76542ms
+        141 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 77544ms
+        142 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 78544ms
+        143 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 79594ms
+        144 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 80585ms
+        145 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 81547ms
+        146 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 82588ms
+        147 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 83549ms
+        148 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 84550ms
+        149 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 85542ms
+        150 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 86592ms
+        151 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 87544ms
+        152 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 88546ms
+        153 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 89546ms
+        154 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 90550ms
+        155 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 91547ms
+        156 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 92548ms
+        157 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 93601ms
+        158 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 94550ms
+        159 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 95553ms
+        160 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 96552ms
+        161 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 97553ms
+        162 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 98565ms
+        163 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 99555ms
+        164 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 100606ms
+        165 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 101549ms
+        166 2022 readings entered at: 2022-08-20 22:37:49.796
+        Elapsed time: 102551ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:37:49.796
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:39:33.881
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 46ms
+        2 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 86ms
+        3 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 136ms
+        4 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 176ms
+        5 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 226ms
+        6 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 266ms
+        7 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 326ms
+        8 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 366ms
+        9 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 406ms
+        10 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 486ms
+        11 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 526ms
+        12 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 576ms
+        13 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 626ms
+        14 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 676ms
+        15 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 786ms
+        16 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 826ms
+        17 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 866ms
+        18 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 1482ms
+        19 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 1527ms
+        20 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 1577ms
+        21 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 1627ms
+        22 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 1677ms
+        23 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 2488ms
+        24 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 2528ms
+        25 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 2568ms
+        26 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 2618ms
+        27 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 3489ms
+        28 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 3589ms
+        29 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 3630ms
+        30 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 3669ms
+        31 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 4490ms
+        32 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 4550ms
+        33 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 4610ms
+        34 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 4671ms
+        35 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 5482ms
+        36 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 5581ms
+        37 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 5631ms
+        38 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 6483ms
+        39 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 6532ms
+        40 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 6582ms
+        41 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 7483ms
+        42 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 7533ms
+        43 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 7583ms
+        44 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 8485ms
+        45 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 8534ms
+        46 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 8585ms
+        47 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 9486ms
+        48 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 9565ms
+        49 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 10489ms
+        50 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 10607ms
+        51 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 11490ms
+        52 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 11587ms
+        53 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 12488ms
+        54 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 12549ms
+        55 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 13491ms
+        56 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 13540ms
+        57 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 14491ms
+        58 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 14541ms
+        59 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 15532ms
+        60 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 15602ms
+        61 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 16492ms
+        62 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 16542ms
+        63 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 17494ms
+        64 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 17543ms
+        65 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 18497ms
+        66 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 18556ms
+        67 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 19500ms
+        68 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 19698ms
+        69 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 20498ms
+        70 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 20557ms
+        71 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 21498ms
+        72 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 21548ms
+        73 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 22499ms
+        74 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 22549ms
+        75 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 23501ms
+        76 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 23590ms
+        77 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 24501ms
+        78 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 24552ms
+        79 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 25504ms
+        80 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 25562ms
+        81 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 26493ms
+        82 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 26543ms
+        83 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 27504ms
+        84 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 27614ms
+        85 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 28496ms
+        86 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 28545ms
+        87 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 29546ms
+        88 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 29606ms
+        89 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 30497ms
+        90 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 30557ms
+        91 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 31548ms
+        92 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 31598ms
+        93 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 32521ms
+        94 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 32600ms
+        95 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 33500ms
+        96 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 33563ms
+        97 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 34501ms
+        98 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 34551ms
+        99 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 35502ms
+        100 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 36504ms
+        101 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 37504ms
+        102 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 38505ms
+        103 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 39506ms
+        104 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 40557ms
+        105 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 41609ms
+        106 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 42511ms
+        107 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 43511ms
+        108 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 44512ms
+        109 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 45513ms
+        110 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 46554ms
+        111 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 47517ms
+        112 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 48556ms
+        113 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 49558ms
+        114 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 50578ms
+        115 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 51531ms
+        116 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 52530ms
+        117 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 53533ms
+        118 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 54522ms
+        119 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 55535ms
+        120 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 56527ms
+        121 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 57537ms
+        122 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 58528ms
+        123 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 59530ms
+        124 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 60530ms
+        125 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 61531ms
+        126 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 62571ms
+        127 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 63582ms
+        128 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 64535ms
+        129 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 65536ms
+        130 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 66536ms
+        131 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 67536ms
+        132 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 68537ms
+        133 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 69589ms
+        134 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 70579ms
+        135 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 71581ms
+        136 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 72572ms
+        137 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 73582ms
+        138 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 74535ms
+        139 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 75537ms
+        140 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 76537ms
+        141 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 77547ms
+        142 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 78539ms
+        143 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 79589ms
+        144 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 80600ms
+        145 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 81541ms
+        146 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 82602ms
+        147 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 83545ms
+        148 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 84545ms
+        149 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 85545ms
+        150 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 86586ms
+        151 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 87549ms
+        152 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 88550ms
+        153 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 89551ms
+        154 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 90550ms
+        155 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 91551ms
+        156 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 92552ms
+        157 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 93594ms
+        158 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 94556ms
+        159 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 95548ms
+        160 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 96557ms
+        161 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 97558ms
+        162 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 98549ms
+        163 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 99551ms
+        164 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 100611ms
+        165 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 101553ms
+        166 2022 readings entered at: 2022-08-20 22:39:33.881
+        Elapsed time: 102553ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:39:33.881
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:41:17.949
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 86ms
+        2 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 156ms
+        3 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 197ms
+        4 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 256ms
+        5 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 307ms
+        6 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 356ms
+        7 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 406ms
+        8 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 446ms
+        9 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 496ms
+        10 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 606ms
+        11 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 657ms
+        12 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 706ms
+        13 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 786ms
+        14 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 837ms
+        15 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 917ms
+        16 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 967ms
+        17 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 1497ms
+        18 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 1547ms
+        19 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 1597ms
+        20 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 1647ms
+        21 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 1697ms
+        22 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 1748ms
+        23 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 2498ms
+        24 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 2548ms
+        25 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 2598ms
+        26 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 2648ms
+        27 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 3500ms
+        28 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 3580ms
+        29 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 3630ms
+        30 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 3680ms
+        31 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 4501ms
+        32 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 4551ms
+        33 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 4601ms
+        34 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 4661ms
+        35 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 5502ms
+        36 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 5582ms
+        37 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 5632ms
+        38 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 6503ms
+        39 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 6583ms
+        40 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 6633ms
+        41 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 7503ms
+        42 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 7554ms
+        43 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 7633ms
+        44 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 8504ms
+        45 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 8554ms
+        46 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 8605ms
+        47 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 9506ms
+        48 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 9566ms
+        49 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 10507ms
+        50 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 10586ms
+        51 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 11509ms
+        52 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 11578ms
+        53 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 12509ms
+        54 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 12569ms
+        55 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 13503ms
+        56 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 13560ms
+        57 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 14511ms
+        58 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 14561ms
+        59 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 17337ms
+        60 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 17417ms
+        61 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 18289ms
+        62 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 18348ms
+        63 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 19291ms
+        64 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 19379ms
+        65 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 20301ms
+        66 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 20361ms
+        67 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 21302ms
+        68 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 21382ms
+        69 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 22302ms
+        70 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 22352ms
+        71 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 23305ms
+        72 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 23384ms
+        73 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 24305ms
+        74 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 24355ms
+        75 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 25306ms
+        76 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 25355ms
+        77 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 26306ms
+        78 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 26356ms
+        79 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 27309ms
+        80 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 27358ms
+        81 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 28308ms
+        82 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 28359ms
+        83 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 29309ms
+        84 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 29389ms
+        85 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 30310ms
+        86 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 30361ms
+        87 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 31342ms
+        88 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 31392ms
+        89 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 32313ms
+        90 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 32373ms
+        91 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 33344ms
+        92 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 33394ms
+        93 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 34305ms
+        94 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 34365ms
+        95 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 35306ms
+        96 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 35366ms
+        97 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 36309ms
+        98 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 37308ms
+        99 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 37358ms
+        100 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 38309ms
+        101 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 39312ms
+        102 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 40312ms
+        103 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 41312ms
+        104 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 42353ms
+        105 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 43314ms
+        106 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 44315ms
+        107 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 45318ms
+        108 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 46319ms
+        109 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 47320ms
+        110 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 48360ms
+        111 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 49321ms
+        112 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 50382ms
+        113 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 51353ms
+        114 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 52324ms
+        115 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 53326ms
+        116 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 54318ms
+        117 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 55317ms
+        118 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 56318ms
+        119 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 57319ms
+        120 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 58320ms
+        121 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 59321ms
+        122 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 60323ms
+        123 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 61324ms
+        124 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 62324ms
+        125 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 63325ms
+        126 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 64366ms
+        127 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 65367ms
+        128 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 66328ms
+        129 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 67329ms
+        130 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 68331ms
+        131 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 69332ms
+        132 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 70322ms
+        133 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 71364ms
+        134 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 72385ms
+        135 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 73375ms
+        136 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 74377ms
+        137 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 75378ms
+        138 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 76329ms
+        139 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 77332ms
+        140 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 78331ms
+        141 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 79332ms
+        142 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 80333ms
+        143 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 81385ms
+        144 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 82376ms
+        145 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 83338ms
+        146 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 84377ms
+        147 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 85340ms
+        148 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 86339ms
+        149 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 87341ms
+        150 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 88381ms
+        151 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 89334ms
+        152 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 90334ms
+        153 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 91337ms
+        154 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 92336ms
+        155 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 93337ms
+        156 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 94340ms
+        157 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 95389ms
+        158 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 96340ms
+        159 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 97343ms
+        160 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 98343ms
+        161 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 99343ms
+        162 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 100344ms
+        163 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 101345ms
+        164 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 102396ms
+        165 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 103347ms
+        166 2022 readings entered at: 2022-08-20 22:41:17.949
+        Elapsed time: 104348ms
+----------------------------------------------
+Connection closed: 2022-08-20 22:41:17.949
+----------------------------------------------
+----------------------------------------------
+Connection started: 2022-08-20 22:43:03.813
+----------------------------------------------
+        Accessing collection 2022
+        166 Entries expected 
+        1 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 47ms
+        2 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 97ms
+        3 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 137ms
+        4 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 187ms
+        5 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 227ms
+        6 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 267ms
+        7 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 307ms
+        8 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 357ms
+        9 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 397ms
+        10 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 477ms
+        11 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 517ms
+        12 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 568ms
+        13 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 618ms
+        14 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 668ms
+        15 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 748ms
+        16 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 788ms
+        17 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 828ms
+        18 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 1519ms
+        19 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 1588ms
+        20 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 1639ms
+        21 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 1689ms
+        22 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 1739ms
+        23 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 2519ms
+        24 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 2570ms
+        25 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 2629ms
+        26 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 2680ms
+        27 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 3520ms
+        28 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 3600ms
+        29 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 3651ms
+        30 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 3711ms
+        31 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 4521ms
+        32 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 4572ms
+        33 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 4622ms
+        34 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 4662ms
+        35 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 5523ms
+        36 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 5603ms
+        37 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 5663ms
+        38 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 6525ms
+        39 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 6574ms
+        40 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 6625ms
+        41 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 7526ms
+        42 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 7575ms
+        43 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 7615ms
+        44 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 8526ms
+        45 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 8576ms
+        46 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 8626ms
+        47 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 9528ms
+        48 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 9577ms
+        49 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 9627ms
+        50 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 10568ms
+        51 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 10608ms
+        52 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 11529ms
+        53 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 11579ms
+        54 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 12530ms
+        55 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 12570ms
+        56 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 13531ms
+        57 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 13581ms
+        58 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 14532ms
+        59 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 14612ms
+        60 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 15534ms
+        61 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 15583ms
+        62 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 16525ms
+        63 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 16574ms
+        64 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 17526ms
+        65 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 17585ms
+        66 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 18529ms
+        67 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 18577ms
+        68 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 19568ms
+        69 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 19628ms
+        70 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 20529ms
+        71 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 20579ms
+        72 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 21530ms
+        73 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 21590ms
+        74 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 22540ms
+        75 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 22591ms
+        76 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 23532ms
+        77 2022 readings entered at: 2022-08-20 22:43:03.813
+        Elapsed time: 23592ms

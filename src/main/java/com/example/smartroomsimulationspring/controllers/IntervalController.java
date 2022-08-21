@@ -1,5 +1,6 @@
 package com.example.smartroomsimulationspring.controllers;
 
+import com.example.smartroomsimulationspring.DB.*;
 import com.example.smartroomsimulationspring.Simulations.*;
 import com.example.smartroomsimulationspring.dataset.*;
 import org.springframework.web.bind.annotation.*;
@@ -21,16 +22,22 @@ public class IntervalController {
             }
 
             intervalGlobal = interval;
-            Thread t1 = new Simulator(Filenames.AdriaCollectionName, interval);
-            Thread t2 = new Simulator(Filenames.DHMZObradenoCollectionName, interval);
+            Thread t1 = new Simulator(interval);
             threads.add(t1);
-            threads.add(t2);
             t1.start();
-            t2.start();
         } catch (Exception e) {
             System.out.println(e.getStackTrace());
             return e.getMessage();
         }
         return "Success, changed interval to: " + interval;
+    }
+
+    @GetMapping("/simulator")
+    public void test() {
+        try {
+           System.out.println(Connect.getClient().mongoClient.getDatabase("2022").getCollection("001").find().first());
+        } catch (Exception e) {
+            System.out.println(e.getStackTrace());
+        }
     }
 }
