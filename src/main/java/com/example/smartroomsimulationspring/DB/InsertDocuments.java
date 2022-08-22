@@ -2,6 +2,7 @@ package com.example.smartroomsimulationspring.DB;
 
 import com.example.smartroomsimulationspring.Operations.Reader;
 import com.example.smartroomsimulationspring.Operations.*;
+import com.example.smartroomsimulationspring.controllers.*;
 import com.mongodb.client.*;
 import com.mongodb.client.model.*;
 import org.bson.*;
@@ -17,47 +18,54 @@ import static com.example.smartroomsimulationspring.dataset.Filenames.*;
 
 public class InsertDocuments {
 
-    public static List<Document> insertSingleReading(String log, String collectionName, String[] fileName, String folderName, Timestamp ts, String resPath) {
-        long start1 = System.currentTimeMillis();
+    public static List<Document> insertSingleReading(String log, String collectionName, String[] fileName, String folderName, Timestamp ts, String resPath , Boolean priority) {
         MongoClient mongoClient = Connect.getClient().mongoClient;
         MongoCollection<Document> Collection = null;
-        Logs.logMessage(log, "        Accessing collection " + collectionName);
-        Logs.logMessage(log, "        " + fileName.length + " Entries expected ");
-
         List<Document> list = new ArrayList<>();
-        int i = 0;
-
-        for (i = 0; i < fileName.length; i++) {
-            String path = resPath + "" + folderName + "\\" + fileName[i];
+        MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
+        if(priority){
+            String file = fileName[0].substring(0,5) + IntervalController.priorityRoom + fileName[0].substring(8);
+            String path = resPath + "" + folderName + "\\" + file;
+            list.clear();
             try {
                 BufferedReader br = Files.newBufferedReader(Path.of(path), StandardCharsets.UTF_8);
-                WrappedReader wr = new WrappedReader(fileName[i], br, path);
+                WrappedReader wr = new WrappedReader(file, br, path);
                 list.addAll(Reader.SingleLine(wr, ts, collectionName));
-                if (collectionName.equals(AdriaCollectionName)) {
-                    MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
-                    Collection = SmartRoomTrialDb.getCollection(fileName[i].substring(5, fileName[i].length() - 4));
-                } else if (collectionName.equals(DHMZObradenoCollectionName)) {
-                    MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
-                    Collection = SmartRoomTrialDb.getCollection("DHMZObradeno");
-                }
+                Collection = SmartRoomTrialDb.getCollection(IntervalController.priorityRoom);
                 wr.getBr().close();
                 wr = null;
             } catch (IOException ioe) {
-                //Dolazi do IOExceptiona ako ne pronadje file u folderu, nije potrebno išta napraviti jer traži sve fajlove u svakom folderu i sve ih prije ili kasnije pronađe
-                //System.out.println("Nije u tom direktoriju");
             }
             try {
                 assert Collection != null;
                 Collection.insertMany(list, new InsertManyOptions().ordered(false));
-                Logs.logMessage(log, "        " + list.size() + " " + collectionName + " readings entered at: " + ts);
-                long end1 = System.currentTimeMillis();
-                Logs.logMessage(log, "        Elapsed time: " + (end1 - start1) + "ms");
             } catch (Exception e) {
-                Logs.logMessage(log, "        " + "FAILED TO LOAD DOCUMENTS:  " + ts);
-                Logs.logMessage(log, e.getStackTrace().toString());
-                Logs.logMessage(log, e.getMessage());
-                long end1 = System.currentTimeMillis();
-                Logs.logMessage(log, "        Elapsed time: " + (end1 - start1) + "ms");
+                e.printStackTrace();
+            }
+        }else{
+            for (int i = 0; i < fileName.length; i++) {
+                String path = resPath + "" + folderName + "\\" + fileName[i];
+                if(fileName[i].equals(fileName[0].substring(0,5) + IntervalController.priorityRoom + fileName[0].substring(8)))break;
+                list.clear();
+                try {
+                    BufferedReader br = Files.newBufferedReader(Path.of(path), StandardCharsets.UTF_8);
+                    WrappedReader wr = new WrappedReader(fileName[i], br, path);
+                    list.addAll(Reader.SingleLine(wr, ts, collectionName));
+                    if (collectionName.equals(AdriaCollectionName)) {
+                        Collection = SmartRoomTrialDb.getCollection(fileName[i].substring(5, fileName[i].length() - 4));
+                    } else if (collectionName.equals(DHMZObradenoCollectionName)) {
+                        Collection = SmartRoomTrialDb.getCollection("DHMZObradeno");
+                    }
+                    wr.getBr().close();
+                    wr = null;
+                } catch (IOException ioe) {
+                }
+                try {
+                    assert Collection != null;
+                    Collection.insertMany(list, new InsertManyOptions().ordered(false));
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
         }
         return list;

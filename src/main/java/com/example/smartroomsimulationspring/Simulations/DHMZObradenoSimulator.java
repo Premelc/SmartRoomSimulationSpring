@@ -17,7 +17,7 @@ public class DHMZObradenoSimulator extends TimerTask {
         Logs.logMessage(DHMZObradenoLog , "Connection started: " + ts);
         Logs.logMessage(DHMZObradenoLog , "----------------------------------------------");
 
-        InsertDocuments.insertSingleReading(DHMZObradenoLog, Filenames.DHMZObradenoCollectionName , Filenames.DHMZObradenoFileNames , Filenames.DHMZObradenoFolderNames[0], ts , Filenames.DHMZObradeniRes);
+        InsertDocuments.insertSingleReading(DHMZObradenoLog, Filenames.DHMZObradenoCollectionName , new String[]{"Data2018.txt"} , Filenames.DHMZObradenoFolderNames[4], ts , Filenames.DHMZObradeniRes ,false);
 
         Logs.logMessage(DHMZObradenoLog , "----------------------------------------------");
         Logs.logMessage(DHMZObradenoLog , "Connection closed: " + ts);

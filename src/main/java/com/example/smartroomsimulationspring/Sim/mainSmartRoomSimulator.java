@@ -16,8 +16,8 @@ public class mainSmartRoomSimulator{
         //MongoClient mongoClient = Connect.mongoConnect();
 
         MongoClient mongoClient = Connect.getClient().mongoClient;
-        Thread t1 = new Simulator(Filenames.AdriaCollectionName , 50000L);
-        Thread t2 = new Simulator(Filenames.DHMZObradenoCollectionName , 50000L);
+        Thread t1 = new Simulator(Filenames.AdriaCollectionName , 50000L ,false);
+        Thread t2 = new Simulator(Filenames.DHMZObradenoCollectionName , 50000L , false);
         //Thread t3 = new Simulator(Filenames.DHMZBaseCollectionName ,mongoClient);
 
         t1.start();

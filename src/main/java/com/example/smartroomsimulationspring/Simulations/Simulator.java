@@ -6,10 +6,16 @@ public class Simulator extends Thread{
 
     private String colName;
     private Long interval;
+    private Boolean priority;
 
-    public Simulator(String colName , Long interval){
+    public Simulator(String colName , Long interval , Boolean priority){
         this.setColName(colName);
         this.setInterval(interval);
+        this.setPriority(priority);
+    }
+
+    public void setPriority(Boolean priority){
+        this.priority = priority;
     }
 
     public void setInterval(Long interval) {
@@ -27,7 +33,7 @@ public class Simulator extends Thread{
     public void run() {
         //OVO TIMER POKREĆE
         if(this.getColName().equals(Filenames.AdriaCollectionName)){
-            AdriaIndoorSimulator adriaSim = new AdriaIndoorSimulator();
+            AdriaIndoorSimulator adriaSim = new AdriaIndoorSimulator(this.priority);
             try{
                 while(true){
                     long start1 = System.currentTimeMillis();

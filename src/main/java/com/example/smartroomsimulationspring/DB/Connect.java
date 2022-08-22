@@ -29,13 +29,7 @@ public class Connect {
     }
 
     private static MongoClient mongoConnectToCloud(){
-        MongoClientSettings settings = MongoClientSettings.builder()
-                .applyConnectionString(connectionString)
-                .serverApi(ServerApi.builder()
-                        .version(ServerApiVersion.V1)
-                        .build())
-                .build();
-        MongoClient mc = MongoClients.create(settings);
+        MongoClient mc = MongoClients.create(connectionString);
         return mc;
     }
 

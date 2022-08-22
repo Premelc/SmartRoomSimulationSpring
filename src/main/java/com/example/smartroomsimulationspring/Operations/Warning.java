@@ -7,9 +7,6 @@ import org.bson.*;
 
 import java.sql.*;
 
-import static com.example.smartroomsimulationspring.dataset.Filenames.archiveDBName;
-
-
 public class Warning {
 
     public static String rule1 = "Window is open and air condition is running while guest is not present in the room";
@@ -24,7 +21,7 @@ public class Warning {
             System.out.println("WARNING: room " + roomState.getRoomName() + "Has broken rule: " + rule1);
             MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
             MongoCollection<Document> Collection = SmartRoomTrialDb.getCollection("Warnings");
-            Collection.insertOne(WarningDocument.createDoc(roomState.getRoomName(),rule1 , ts));
+            Collection.insertOne(WarningDocument.createDoc(roomState.getRoomName(),rule1 , ts , 1));
         }
     }
 }
