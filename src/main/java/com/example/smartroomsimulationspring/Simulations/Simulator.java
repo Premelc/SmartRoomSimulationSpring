@@ -6,16 +6,23 @@ public class Simulator extends Thread{
 
     private String colName;
     private Long interval;
-    private Boolean priority;
+    private Boolean isPriority;
 
-    public Simulator(String colName , Long interval , Boolean priority){
+    public Simulator(String colName , Long interval , Boolean isPriority){
         this.setColName(colName);
         this.setInterval(interval);
-        this.setPriority(priority);
+        this.setIsPriority(isPriority);
     }
 
-    public void setPriority(Boolean priority){
-        this.priority = priority;
+    public Boolean getIsPriority() {
+        return isPriority;
+    }
+    public void setPriority(Boolean priority) {
+        isPriority = priority;
+    }
+
+    public void setIsPriority(Boolean priority){
+        this.isPriority = priority;
     }
 
     public void setInterval(Long interval) {
@@ -33,13 +40,13 @@ public class Simulator extends Thread{
     public void run() {
         //OVO TIMER POKREĆE
         if(this.getColName().equals(Filenames.AdriaCollectionName)){
-            AdriaIndoorSimulator adriaSim = new AdriaIndoorSimulator(this.priority);
+            AdriaIndoorSimulator adriaSim = new AdriaIndoorSimulator(this.getIsPriority());
             try{
                 while(true){
                     long start1 = System.currentTimeMillis();
                     adriaSim.run();
                     long end = System.currentTimeMillis();
-                    System.out.println("Entered data in thread: " + Thread.currentThread().getName() + " " + (end-start1)/1000 + " seconds elapsed");
+                    System.out.println("Entered ADRIA data in thread: " + Thread.currentThread().getName() + " " + (end-start1)/1000 + " seconds elapsed , priority? " + this.getIsPriority());
                     if(this.interval - (end-start1) <= 0){
                         Thread.sleep(100);
                     }else{
@@ -59,7 +66,7 @@ public class Simulator extends Thread{
                     long start1 = System.currentTimeMillis();
                     dhmzSim.run();
                     long end = System.currentTimeMillis();
-                    System.out.println("Entered data in thread: " + Thread.currentThread().getName() + " " + (end-start1)/1000 + " seconds elapsed");
+                    System.out.println("Entered DHMZ data in thread: " + Thread.currentThread().getName() + " " + (end-start1)/1000 + " seconds elapsed");
                     if(this.interval - (end-start1) <= 0){
                         Thread.sleep(100);
                     }else{

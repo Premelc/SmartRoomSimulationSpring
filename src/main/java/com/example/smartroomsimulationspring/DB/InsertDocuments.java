@@ -45,26 +45,29 @@ public class InsertDocuments {
         }else{
             for (int i = 0; i < fileName.length; i++) {
                 String path = resPath + "" + folderName + "\\" + fileName[i];
-                if(fileName[i].equals(fileName[0].substring(0,5) + IntervalController.priorityRoom + fileName[0].substring(8)))break;
-                list.clear();
-                try {
-                    BufferedReader br = Files.newBufferedReader(Path.of(path), StandardCharsets.UTF_8);
-                    WrappedReader wr = new WrappedReader(fileName[i], br, path);
-                    list.addAll(Reader.SingleLine(wr, ts, collectionName));
-                    if (collectionName.equals(AdriaCollectionName)) {
-                        Collection = SmartRoomTrialDb.getCollection(fileName[i].substring(5, fileName[i].length() - 4));
-                    } else if (collectionName.equals(DHMZObradenoCollectionName)) {
-                        Collection = SmartRoomTrialDb.getCollection("DHMZObradeno");
+                if(fileName[i].equals(fileName[0].substring(0,5) + IntervalController.priorityRoom + fileName[0].substring(8))){
+                    //do nothing
+                }else{
+                    list.clear();
+                    try {
+                        BufferedReader br = Files.newBufferedReader(Path.of(path), StandardCharsets.UTF_8);
+                        WrappedReader wr = new WrappedReader(fileName[i], br, path);
+                        list.addAll(Reader.SingleLine(wr, ts, collectionName));
+                        if (collectionName.equals(AdriaCollectionName)) {
+                            Collection = SmartRoomTrialDb.getCollection(fileName[i].substring(5, fileName[i].length() - 4));
+                        } else if (collectionName.equals(DHMZObradenoCollectionName)) {
+                            Collection = SmartRoomTrialDb.getCollection("DHMZObradeno");
+                        }
+                        wr.getBr().close();
+                        wr = null;
+                    } catch (IOException ioe) {
                     }
-                    wr.getBr().close();
-                    wr = null;
-                } catch (IOException ioe) {
-                }
-                try {
-                    assert Collection != null;
-                    Collection.insertMany(list, new InsertManyOptions().ordered(false));
-                } catch (Exception e) {
-                    e.printStackTrace();
+                    try {
+                        assert Collection != null;
+                        Collection.insertMany(list, new InsertManyOptions().ordered(false));
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
                 }
             }
         }

@@ -3,7 +3,6 @@ package com.example.smartroomsimulationspring.Simulations;
 import com.example.smartroomsimulationspring.DB.*;
 import com.example.smartroomsimulationspring.Operations.*;
 import com.example.smartroomsimulationspring.dataset.*;
-import com.mongodb.client.*;
 
 import java.sql.*;
 import java.util.Date;
@@ -11,17 +10,25 @@ import java.util.Date;
 public class AdriaIndoorSimulator{
 
         public static String AdriaLog = "src\\main\\resources\\Logs\\AdriaIndoorLog.txt";
-        public Boolean priority;
+        private Boolean priority;
+
+    public Boolean getPriority() {
+        return priority;
+    }
+
+    public void setPriority(Boolean priority) {
+        this.priority = priority;
+    }
 
     public AdriaIndoorSimulator(Boolean priority) {
-        this.priority = priority;
+        this.setPriority(priority);
     }
 
     public void SmartRoomReadingsSimulator(Timestamp ts) {
             Logs.logMessage(AdriaLog , "----------------------------------------------");
             Logs.logMessage(AdriaLog , "Connection started: " + ts);
             Logs.logMessage(AdriaLog , "----------------------------------------------");
-            InsertDocuments.insertSingleReading(AdriaLog, Filenames.AdriaCollectionName , Filenames.adriaRoomNames, Filenames.adriaFolderNames[58] ,ts , Filenames.AdriaRes , priority);
+            InsertDocuments.insertSingleReading(AdriaLog, Filenames.AdriaCollectionName , Filenames.adriaRoomNames, Filenames.adriaFolderNames[58] ,ts , Filenames.AdriaRes , getPriority());
             Logs.logMessage(AdriaLog , "----------------------------------------------");
             Logs.logMessage(AdriaLog , "Connection closed: " + ts);
             Logs.logMessage(AdriaLog , "----------------------------------------------");

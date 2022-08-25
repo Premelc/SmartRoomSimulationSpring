@@ -13,6 +13,7 @@ public class Connect {
 
     private Connect(){
        mongoClient =  mongoConnectToCloud();
+       //mongoClient = mongoConnect();
     }
 
     public static Connect getClient(){
