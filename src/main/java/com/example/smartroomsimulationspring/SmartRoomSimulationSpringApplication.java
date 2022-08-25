@@ -1,5 +1,6 @@
 package com.example.smartroomsimulationspring;
 
+import com.example.smartroomsimulationspring.controllers.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

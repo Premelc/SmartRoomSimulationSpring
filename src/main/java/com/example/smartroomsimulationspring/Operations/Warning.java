@@ -22,7 +22,6 @@ public class Warning {
     public static void checkRoomStateAgainstRuleOne(AdriaIndoorDataset roomState , Timestamp ts) {
         if (roomState.getPrisutnost() != 1 && roomState.getStatusKlime() != 0 && roomState.getProzor() != 0) {
             MongoClient mongoClient = Connect.getClient().mongoClient;
-            System.out.println("WARNING: room " + roomState.getRoomName() + "Has broken rule: " + rule1);
             MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
             MongoCollection<Document> Collection = SmartRoomTrialDb.getCollection("Warnings");
             Collection.insertOne(WarningDocument.createDoc(roomState.getRoomName(),rule1 , ts , 1));
@@ -32,7 +31,6 @@ public class Warning {
     public static void checkRoomStateAgainstRuleTwo(AdriaIndoorDataset roomState , Timestamp ts) {
         if (roomState.getIzmjerena() - roomState.getZadana() > 10 || roomState.getIzmjerena() - roomState.getZadana() < -10) {
             MongoClient mongoClient = Connect.getClient().mongoClient;
-            System.out.println("WARNING: room " + roomState.getRoomName() + "Has broken rule: " + rule2);
             MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
             MongoCollection<Document> Collection = SmartRoomTrialDb.getCollection("Warnings");
             Collection.insertOne(WarningDocument.createDoc(roomState.getRoomName(),rule2 , ts , 2));
@@ -42,7 +40,6 @@ public class Warning {
     public static void checkRoomStateAgainstRuleThree(AdriaIndoorDataset roomState , Timestamp ts) {
         if (roomState.getVentil() == 1 && roomState.getPrisutnost() == 0) {
             MongoClient mongoClient = Connect.getClient().mongoClient;
-            System.out.println("WARNING: room " + roomState.getRoomName() + "Has broken rule: " + rule3);
             MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
             MongoCollection<Document> Collection = SmartRoomTrialDb.getCollection("Warnings");
             Collection.insertOne(WarningDocument.createDoc(roomState.getRoomName(),rule3 , ts , 3));

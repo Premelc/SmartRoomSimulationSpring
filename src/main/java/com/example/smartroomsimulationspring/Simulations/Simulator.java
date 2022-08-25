@@ -1,5 +1,6 @@
 package com.example.smartroomsimulationspring.Simulations;
 
+import com.example.smartroomsimulationspring.controllers.*;
 import com.example.smartroomsimulationspring.dataset.*;
 
 public class Simulator extends Thread{
@@ -47,6 +48,7 @@ public class Simulator extends Thread{
                     adriaSim.run();
                     long end = System.currentTimeMillis();
                     System.out.println("Entered ADRIA data in thread: " + Thread.currentThread().getName() + " " + (end-start1)/1000 + " seconds elapsed , priority? " + this.getIsPriority());
+                    IntervalController.intervalManipulation();
                     if(this.interval - (end-start1) <= 0){
                         Thread.sleep(100);
                     }else{
@@ -67,6 +69,7 @@ public class Simulator extends Thread{
                     dhmzSim.run();
                     long end = System.currentTimeMillis();
                     System.out.println("Entered DHMZ data in thread: " + Thread.currentThread().getName() + " " + (end-start1)/1000 + " seconds elapsed");
+                    IntervalController.intervalManipulation();
                     if(this.interval - (end-start1) <= 0){
                         Thread.sleep(100);
                     }else{
@@ -78,9 +81,6 @@ public class Simulator extends Thread{
             }catch (InterruptedException e){
                 System.out.println("Closing thread " + Thread.currentThread().getName());
             }
-        }
-        else{
-            //TODO: Dodati simulator za DHMZBase
         }
     }
 }
