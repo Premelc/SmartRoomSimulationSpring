@@ -64,11 +64,11 @@ public class IntervalController {
         return;
     }
 
-    public static void intervalManipulation(){
+    public static void intervalManipulation(Long oldInterval){
         MongoClient mc = Connect.getClient().mongoClient;
         Document interval = mc.getDatabase("2022").getCollection("interval").find().first();
         Long tmpInterval = Long.parseLong(interval.get("interval").toString());
-        if(!tmpInterval.equals(intervalGlobal)){
+        if(!tmpInterval.equals(oldInterval)){
             String room = interval.get("prioRoom").toString();
             System.out.println("tmpInterval " + tmpInterval);
             System.out.println("intervalGlobal " + intervalGlobal);
