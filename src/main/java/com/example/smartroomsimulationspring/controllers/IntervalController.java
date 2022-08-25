@@ -36,4 +36,9 @@ public class IntervalController {
         }
         return "Success, changed interval to: " + interval;
     }
+
+    @GetMapping("/")
+    String hello() {
+        return "This tutorial is the best. All hail the great Premo.";
+    }
 }
