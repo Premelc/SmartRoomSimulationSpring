@@ -10,7 +10,7 @@ import java.sql.*;
 public class Warning {
 
     public static String rule1 = "Window is open and air condition is running while guest is not present in the room";
-    public static String rule2 = "Zadana temperatura sobe značajno je različita od izmjerene temperature";
+    public static String rule2 = "Measured temperature is significantly different than the set temperature";
     public static String rule3 = "Water was left on after guest left the room";
 
     public static void checkRoomStateAgainstRules(AdriaIndoorDataset roomState , Timestamp ts){
@@ -30,7 +30,7 @@ public class Warning {
     }
 
     public static void checkRoomStateAgainstRuleTwo(AdriaIndoorDataset roomState , Timestamp ts) {
-        if (roomState.getIzmjerena() - roomState.getZadana() > 10 || roomState.getIzmjerena() - roomState.getZadana() < 10) {
+        if (roomState.getIzmjerena() - roomState.getZadana() > 10 || roomState.getIzmjerena() - roomState.getZadana() < -10) {
             MongoClient mongoClient = Connect.getClient().mongoClient;
             System.out.println("WARNING: room " + roomState.getRoomName() + "Has broken rule: " + rule2);
             MongoDatabase SmartRoomTrialDb = mongoClient.getDatabase("2022");
