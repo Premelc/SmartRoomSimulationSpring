@@ -9,9 +9,13 @@ import java.sql.*;
 
 public class Warning {
 
-    public static String rule1 = "Window is open and air condition is running while guest is not present in the room";
-    public static String rule2 = "Measured temperature is significantly different than the set temperature";
-    public static String rule3 = "Water was left on after guest left the room";
+    //public static String rule1 = "Window is open and air condition is running while guest is not present in the room";
+    //public static String rule2 = "Measured temperature is significantly different than the set temperature";
+   // public static String rule3 = "Water was left on after guest left the room";
+    public static String rule1 = "Prozor je otvoren i klima je upaljena dok gost nije prisutan u sobi";
+    public static String rule2 = "Izmjerena temperatura značajno je različita od zadane temperature";
+    public static String rule3 = "Voda je ostala uključena nakon što je gost napustio sobu";
+
 
     public static void checkRoomStateAgainstRules(AdriaIndoorDataset roomState , Timestamp ts){
         checkRoomStateAgainstRuleOne(roomState , ts);
