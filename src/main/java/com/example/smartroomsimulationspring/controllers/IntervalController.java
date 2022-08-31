@@ -68,8 +68,8 @@ public class IntervalController {
         MongoClient mc = Connect.getClient().mongoClient;
         Document interval = mc.getDatabase("2022").getCollection("interval").find().first();
         Long tmpInterval = Long.parseLong(interval.get("interval").toString());
-        if(!tmpInterval.equals(oldInterval)){
-            String room = interval.get("prioRoom").toString();
+        String room = interval.get("prioRoom").toString();
+        if(!tmpInterval.equals(oldInterval) || !room.equals(priorityRoom)){
             System.out.println("tmpInterval " + tmpInterval);
             System.out.println("intervalGlobal " + intervalGlobal);
             System.out.println("new Room " + room);

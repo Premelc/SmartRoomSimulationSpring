@@ -9,7 +9,7 @@ public class SmartRoomSimulationSpringApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SmartRoomSimulationSpringApplication.class, args);
-        IntervalController.intervalManipulation(1000L);
+        IntervalController.changeInterval(1000L , "001");
     }
 
 }
