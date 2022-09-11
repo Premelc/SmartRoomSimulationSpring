@@ -29,10 +29,6 @@ public class Reader {
                     Warning.checkRoomStateAgainstRules(roomState , ts);
                     list.add(doc);
                 }
-                else if(collectionName.equals(Filenames.DHMZBaseCollectionName)){
-                    Document doc = DHMZBaseDocument.createDoc(new DHMZBaseDataset(attributes) , ts);
-                    list.add(doc);
-                }
                 else if(collectionName.equals(Filenames.DHMZObradenoCollectionName)){
                     Document doc = DHMZObradenoDocument.createDoc(new DHMZObradenoDataset(attributes) , ts);
                     list.add(doc);
@@ -60,10 +56,6 @@ public class Reader {
                         s= s + "," + br.getFileName().substring(5 , br.getFileName().length()-4);
                         attributes = s.split(",");
                         Document doc = AdriaIndoorDocument.createDoc(new AdriaIndoorDataset(attributes));
-                        list.add(doc);
-                    }
-                    else if(collectionName.equals(Filenames.DHMZBaseCollectionName)){
-                        Document doc = DHMZBaseDocument.createDoc(new DHMZBaseDataset(attributes));
                         list.add(doc);
                     }
                     else if(collectionName.equals(Filenames.DHMZObradenoCollectionName)){
@@ -98,10 +90,6 @@ public class Reader {
                         Document doc = AdriaIndoorDocument.createDoc(new AdriaIndoorDataset(attributes));
                         list.add(doc);
                     }
-                    else if(collectionName.equals(Filenames.DHMZBaseCollectionName)){
-                        Document doc = DHMZBaseDocument.createDoc(new DHMZBaseDataset(attributes));
-                        list.add(doc);
-                    }
                     else if(collectionName.equals(Filenames.DHMZObradenoCollectionName)){
                         Document doc = DHMZObradenoDocument.createDoc(new DHMZObradenoDataset(attributes));
                         list.add(doc);
@@ -130,10 +118,6 @@ public class Reader {
                     s= s + "," + br.getFileName().substring(5 , br.getFileName().length()-4);
                     attributes = s.split(",");
                     Document doc = AdriaIndoorDocument.createDoc(new AdriaIndoorDataset(attributes));
-                    list.add(doc);
-                }
-                else if(collectionName.equals(Filenames.DHMZBaseCollectionName)){
-                    Document doc = DHMZBaseDocument.createDoc(new DHMZBaseDataset(attributes));
                     list.add(doc);
                 }
                 else if(collectionName.equals(Filenames.DHMZObradenoCollectionName)){

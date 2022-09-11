@@ -168,9 +168,6 @@ public class AdriaIndoorDataset implements Dataset{
 
     //MAIN CONSTRUCTOR
     public AdriaIndoorDataset(String[] csv){
-        this.setRB(Integer.parseInt(csv[0]));
-        //this.set_id();
-        this.setVrijeme(LocalTime.parse(csv[2]));
         this.setTimestamp(Timestamp.valueOf(LocalDate.parse(csv[1] , AdriaIndoorDataset.formatter) + " " + csv[2]));
         this.getTimestamp().setTime(this.getTimestamp().getTime());
         this.setZadana(Integer.parseInt(csv[3]));

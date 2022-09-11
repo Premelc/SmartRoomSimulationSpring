@@ -6,7 +6,7 @@ import com.mongodb.client.*;
 public class Connect {
 
     private static final String defaultConnection = "mongodb://localhost:27017";
-    private static final ConnectionString connectionString = new ConnectionString("mongodb+srv://premelc:premelc1234@smartroommonitoring2022.nye6wof.mongodb.net/?retryWrites=true&w=majority");
+    private static final ConnectionString connectionString = new ConnectionString("mongodb+srv://premelc:premelc1234@smartroommonitoring2022.ztojweh.mongodb.net/?retryWrites=true&w=majority");
 
     private static Connect connection = null;
     public MongoClient mongoClient;

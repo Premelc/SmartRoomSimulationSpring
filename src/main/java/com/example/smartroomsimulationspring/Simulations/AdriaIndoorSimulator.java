@@ -11,7 +11,9 @@ import java.util.Date;
 public class AdriaIndoorSimulator{
 
         public static String AdriaLog = "src\\main\\resources\\Logs\\AdriaIndoorLog.txt";
-        private Boolean priority;
+    public static String AdriaPrioLog = "src\\main\\resources\\Logs\\AdriaPrioLog.txt";
+
+    private Boolean priority;
 
     public Boolean getPriority() {
         return priority;
@@ -26,13 +28,8 @@ public class AdriaIndoorSimulator{
     }
 
     public void SmartRoomReadingsSimulator(Timestamp ts) {
-            Logs.logMessage(AdriaLog , "----------------------------------------------");
-            Logs.logMessage(AdriaLog , "Connection started: " + ts);
-            Logs.logMessage(AdriaLog , "----------------------------------------------");
+        //InsertDocuments.insertSingleReadingAlternate(AdriaLog, Filenames.AdriaCollectionName , Filenames.adriaRoomNames, Filenames.adriaFolderNames[58] ,ts , Filenames.AdriaRes , getPriority());
             InsertDocuments.insertSingleReading(AdriaLog, Filenames.AdriaCollectionName , Filenames.adriaRoomNames, Filenames.adriaFolderNames[58] ,ts , Filenames.AdriaRes , getPriority());
-            Logs.logMessage(AdriaLog , "----------------------------------------------");
-            Logs.logMessage(AdriaLog , "Connection closed: " + ts);
-            Logs.logMessage(AdriaLog , "----------------------------------------------");
         }
 
         public void run() {

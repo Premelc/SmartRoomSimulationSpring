@@ -13,15 +13,8 @@ public class DHMZObradenoSimulator extends TimerTask {
     public static String DHMZObradenoLog = "src\\main\\resources\\Logs\\DHMZObradenoLog.txt";
 
     public void SmartRoomReadingsSimulator(Timestamp ts){
-        Logs.logMessage(DHMZObradenoLog , "----------------------------------------------");
-        Logs.logMessage(DHMZObradenoLog , "Connection started: " + ts);
-        Logs.logMessage(DHMZObradenoLog , "----------------------------------------------");
-
         InsertDocuments.insertSingleReading(DHMZObradenoLog, Filenames.DHMZObradenoCollectionName , new String[]{"Data2018.txt"} , Filenames.DHMZObradenoFolderNames[4], ts , Filenames.DHMZObradeniRes ,false);
-
-        Logs.logMessage(DHMZObradenoLog , "----------------------------------------------");
-        Logs.logMessage(DHMZObradenoLog , "Connection closed: " + ts);
-        Logs.logMessage(DHMZObradenoLog , "----------------------------------------------");
+        //InsertDocuments.insertSingleReadingAlternate(DHMZObradenoLog, Filenames.DHMZObradenoCollectionName , new String[]{"Data2018.txt"} , Filenames.DHMZObradenoFolderNames[4], ts , Filenames.DHMZObradeniRes ,false);
     }
 
     public void run() {
