@@ -26,7 +26,7 @@ public class Filenames {
     //166 rooms
     public static String[] adriaRoomNames =
             {
-                    "room_001.csv"/*, "room_002.csv", "room_003.csv",
+                    "room_001.csv", "room_002.csv", "room_003.csv",
                     "room_004.csv", "room_005.csv", "room_006.csv",
                     "room_007.csv", "room_008.csv", "room_009.csv",
                     "room_010.csv", "room_301.csv", "room_302.csv",
@@ -56,7 +56,7 @@ public class Filenames {
                     "room_525.csv", "room_601.csv", "room_602.csv",
                     "room_603.csv", "room_604.csv", "room_605.csv",
                     "room_606.csv", "room_607.csv", "room_608.csv",
-                    "room_609.csv", "room_610.csv", "room_611.csv"/*,
+                    "room_609.csv", "room_610.csv", "room_611.csv",
                     "room_612.csv", "room_614.csv", "room_615.csv",
                     "room_616.csv", "room_617.csv", "room_618.csv",
                     "room_619.csv", "room_620.csv", "room_621.csv",
@@ -81,7 +81,7 @@ public class Filenames {
                     "room_906.csv", "room_908.csv", "room_909.csv",
                     "room_910.csv", "room_912.csv", "room_914.csv",
                     "room_916.csv", "room_917.csv", "room_918.csv",
-                    "room_920.csv"*/
+                    "room_920.csv"
     };
 
     //106 folders

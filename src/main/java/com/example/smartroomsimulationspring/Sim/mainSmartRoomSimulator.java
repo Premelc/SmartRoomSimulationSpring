@@ -13,14 +13,10 @@ public class mainSmartRoomSimulator{
     public static void SimulationInit(){
         long start1 = System.currentTimeMillis();
         System.out.println("Spajam se na bazu...");
-        //MongoClient mongoClient = Connect.mongoConnect();
-
         MongoClient mongoClient = Connect.getClient().mongoClient;
-
         archive(mongoClient);
         //archiveAlternate(mongoClient);
         //createIndexes(mongoClient);
-
         long end1 = System.currentTimeMillis();
         System.out.println("Done");
         System.out.println("Executed in: " + (end1 - start1) + "ms");
@@ -40,7 +36,7 @@ public class mainSmartRoomSimulator{
     }
 
     public static void createIndexes(MongoClient mongoClient){
-        String[] years = {/*"2013" , "2014" , "2015" , "2016" , "2017" , "2018" , "2019" , "2020" , "2021" ,*/ "2022"};
+        String[] years = {"2013" , "2014" , "2015" , "2016" , "2017" , "2018" , "2019" , "2020" , "2021" , "2022"};
 
         for(String s : years){
             MongoDatabase db = mongoClient.getDatabase(s);

@@ -23,44 +23,6 @@ public class AdriaIndoorDataset implements Dataset{
     private int wcSet;
     private int wcMjerena;
 
-    public String get_id() {
-        return _id;
-    }
-
-    public void set_id() {
-
-        int n = 20;
-
-        StringBuilder sb = new StringBuilder(n);
-
-        for (int i = 0; i < n; i++) {
-
-            // generate a random number between
-            // 0 to AlphaNumericString variable length
-            int index
-                    = (int)(Filenames.AlphaNumericString.length()
-                    * Math.random());
-
-            // add Character one by one in end of sb
-            sb.append(Filenames.AlphaNumericString
-                    .charAt(index));
-        }
-        String prefix = String.valueOf(System.currentTimeMillis());
-        String sufix = String.valueOf(System.currentTimeMillis());
-
-        prefix = prefix.substring(prefix.length()-4 , prefix.length()-2);
-        sufix = sufix.substring(prefix.length()-2 , prefix.length());
-
-        this._id = ( prefix + sb.toString() + sufix);
-    }
-
-    public LocalTime getVrijeme() {
-        return vrijeme;
-    }
-
-    public void setVrijeme(LocalTime vrijeme) {
-        this.vrijeme = vrijeme;
-    }
 
     public String getRoomName() {
         return roomName;
@@ -68,14 +30,6 @@ public class AdriaIndoorDataset implements Dataset{
 
     public void setRoomName(String roomName) {
         this.roomName = roomName;
-    }
-
-    public int getRB() {
-        return RB;
-    }
-
-    public void setRB(int RB) {
-        this.RB = RB;
     }
 
     public int getZadana() {
@@ -166,7 +120,6 @@ public class AdriaIndoorDataset implements Dataset{
         this.wcMjerena = wcMjerena;
     }
 
-    //MAIN CONSTRUCTOR
     public AdriaIndoorDataset(String[] csv){
         this.setTimestamp(Timestamp.valueOf(LocalDate.parse(csv[1] , AdriaIndoorDataset.formatter) + " " + csv[2]));
         this.getTimestamp().setTime(this.getTimestamp().getTime());
